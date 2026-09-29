@@ -1,5 +1,5 @@
-using RarityRoom_CSharp_WebAPI_POO.Modelos;
-using RarityRoom_CSharp_WebAPI_POO.Repositorios;
+using RarityRoom.Modelos;
+using RarityRoom.Repositorios;
 
 namespace RarityRoom.Servicos;
 
